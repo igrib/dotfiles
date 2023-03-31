@@ -17,7 +17,7 @@ set foldmethod=syntax
 set nofoldenable "Stop for code being folded on open
 
 " plugin manager vim-plug
-call plug#begin('~/.vim/plugged')
+" call plug#begin('~/.vim/plugged')
 " Use release branch (recommend)
- Plug 'neoclide/coc.nvim', {'branch': 'release'}
-call plug#end()
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" call plug#end()
